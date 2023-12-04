@@ -1,0 +1,30 @@
+┌───────────────┬─────────────────────────────────────┬────────────┬───────────────────────────┐
+│    Borough    │                Zone                 │ trip_count │ average_trip_duration_min │
+│    varchar    │               varchar               │   int64    │          double           │
+├───────────────┼─────────────────────────────────────┼────────────┼───────────────────────────┤
+│ Manhattan     │ Upper East Side North               │     478225 │        15.886869151550002 │
+│ Manhattan     │ Midtown South                       │     375953 │        17.755892358885287 │
+│ Manhattan     │ Penn Station/Madison Sq West        │     388236 │        18.103805417323482 │
+│ Manhattan     │ Upper West Side South               │     363061 │         16.24492302946337 │
+│ Manhattan     │ Midtown North                       │     347001 │         18.08347814559612 │
+│ Manhattan     │ Lenox Hill East                     │     330388 │        18.062060365388575 │
+│ Manhattan     │ World Trade Center                  │     125029 │         21.46689967927441 │
+│ Manhattan     │ Hudson Sq                           │     121089 │        17.582026443359844 │
+│ Manhattan     │ Yorkville East                      │     209797 │        13.513262820726702 │
+│ Manhattan     │ Central Park                        │     145691 │        16.256769464139857 │
+│   ·           │     ·                               │        ·   │                 ·         │
+│   ·           │     ·                               │        ·   │                 ·         │
+│   ·           │     ·                               │        ·   │                 ·         │
+│ Queens        │ Auburndale                          │      27380 │        16.395398100803508 │
+│ Brooklyn      │ East Flatbush/Farragut              │     174205 │        17.290244252461182 │
+│ Brooklyn      │ Dyker Heights                       │      53901 │        16.761266024749077 │
+│ Manhattan     │ Marble Hill                         │      40968 │        14.231107205623902 │
+│ Queens        │ Breezy Point/Fort Tilden/Riis Beach │       3282 │        29.833028641072517 │
+│ Queens        │ Forest Park/Highland Park           │       5044 │        18.013481363996828 │
+│ Manhattan     │ Highbridge Park                     │       3563 │        15.906820095425203 │
+│ Staten Island │ New Dorp/Midland Beach              │      18331 │        17.311166875784192 │
+│ Brooklyn      │ Bay Ridge                           │     177334 │        17.378579403836827 │
+│ Staten Island │ Great Kills                         │      19833 │        17.302122724751676 │
+├───────────────┴─────────────────────────────────────┴────────────┴───────────────────────────┤
+│ 262 rows (20 shown)                                                                4 columns │
+└──────────────────────────────────────────────────────────────────────────────────────────────

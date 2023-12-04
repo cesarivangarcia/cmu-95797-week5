@@ -1,0 +1,30 @@
+────────────────────────────────────┬────────────┐
+│                Zone                 │ trip_count │
+│               varchar               │   int64    │
+├─────────────────────────────────────┼────────────┤
+│ Flushing                            │     153299 │
+│ Sunset Park West                    │     160556 │
+│ Elmhurst/Maspeth                    │      66595 │
+│ Upper East Side North               │     478225 │
+│ Ocean Hill                          │     179901 │
+│ Long Island City/Queens Plaza       │      88236 │
+│ West Concourse                      │     192061 │
+│ Brownsville                         │     263540 │
+│ Bath Beach                          │      37672 │
+│ Riverdale/North Riverdale/Fieldston │      54622 │
+│      ·                              │        ·   │
+│      ·                              │        ·   │
+│      ·                              │        ·   │
+│ Marble Hill                         │      40968 │
+│ Windsor Terrace                     │      46775 │
+│ Ocean Parkway South                 │      36465 │
+│ Howard Beach                        │      43638 │
+│ Rockaway Park                       │      20327 │
+│ UN/Turtle Bay South                 │     248941 │
+│ Lenox Hill West                     │     369254 │
+│ New Dorp/Midland Beach              │      18331 │
+│ Middle Village                      │      68618 │
+│ Great Kills                         │      19833 │
+├─────────────────────────────────────┴────────────┤
+│ 262 rows (20 shown)                    2 columns │
+└──────────────────────────────────────────────────┘
